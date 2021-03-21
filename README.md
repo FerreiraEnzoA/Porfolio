@@ -6,6 +6,6 @@ Analysis of the correlations between Average Monthly Salary, Education Level, an
 
 ![](DataFrameTable.png)
 
-![](2_Dispersao_SMM-Edu_2017.png)
+![](2_Dispersao_SMM-Edu_2012.png)
 
-![](3_Boxplot_SMM-Cor_2017.png)
+![](3_Boxplot_SMM-Cor_2012.png)
