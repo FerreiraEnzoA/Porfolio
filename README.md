@@ -1,6 +1,5 @@
 # FerreiraEnzoA
-# Innovation and Social objectives are keys!
-Why?
+Innovation and Social objectives are keys!
 
 # [Project 1: Piauí Economic Analysis (R)](https://github.com/FerreiraEnzoA/Porfolio)
 Analysis of the correlations between `Average Monthly Salary`, `Education Level`, and `Self-Declared Color` of microdata of Brazil's Work Ministery (RAIS).
@@ -12,7 +11,7 @@ Data: <br />
 
 Plot: <br />
   -- Normal Distributions <br />
-  -- Boxplots <br />
+  -- Boxplots (hidden outliers) <br />
   -- Dispersion with Jitter Points <br />
   -- 100% Stacked Bar Chart <br />
   -- Lorenz Curve <br />
