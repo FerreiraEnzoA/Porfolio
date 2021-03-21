@@ -4,12 +4,12 @@ Innovation and Social objectives are keys! <br /> <br /> <br />
 # [Project 1: Piauí Economic Analysis (R)](/Proj1/README.md)
 Analysis of the correlations between `Average Monthly Salary`, `Education Level`, and `Self-Declared Color` of microdata of Brazil's Work Ministery (RAIS).
 
-Data: <br />
+**Data** <br />
   -- Welch's T-Test <br />
   -- Gini index <br />
   -- Means <br />
 
-Plot: <br />
+**Plot** <br />
   -- Normal Distributions <br />
   -- Boxplots (hidden outliers) <br />
   -- Dispersion with Jitter Points <br />
