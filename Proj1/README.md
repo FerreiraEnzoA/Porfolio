@@ -3,7 +3,7 @@
 :email: Email: FerreiraEnzoA@gmail.com <br />
 :briefcase: LinkedIn: [FerreiraEnzoA](https://www.linkedin.com/in/ferreiraenzoa/) <br /> <br /> <br />
 
-[MAIN PAGE](https://ferreiraenzoa.github.io/Portfolio/) || [ARCHIVE](https://github.com/FerreiraEnzoA/Portfolio) || [ABOUT](https://www.google.com/)
+:point_right: [MAIN PAGE](https://ferreiraenzoa.github.io/Portfolio/) || [ARCHIVE](https://github.com/FerreiraEnzoA/Portfolio) || [ABOUT](https://www.google.com/) :point_left:
 <br /> <br /> <br />
 
 
