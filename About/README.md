@@ -24,7 +24,7 @@ BSc Candidate in Economics at University of Campinas (UNICAMP) <br /> <br /> <br
 * Critical Thinking <br />
 * Proactivity <br />
 * Leadership <br />
-* Teamwork <br />
+* Teamwork <br /> <br />
 <h3> Hard Skills </h3>
 <h4> Languages </h4>
 * Portuguese <br />
