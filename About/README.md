@@ -7,3 +7,5 @@
 <br /> <br /> <br />
 
 # About
+
+![](https://github.com/FerreiraEnzoA/Portfolio/blob/6052436c3543d1449654f583eafbf81cabf5b51b/images/Enzo.png)
