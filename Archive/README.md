@@ -6,6 +6,6 @@
 :point_right: [MAIN PAGE](https://ferreiraenzoa.github.io/Portfolio/) || ARCHIVE || [ABOUT](https://ferreiraenzoa.github.io/Portfolio/About/) :point_left:
 <br /> <br /> <br />
 
-# :link: [Click here to access my GitHub Portfolio Archive](https://github.com/FerreiraEnzoA/Portfolio)
+Click on the icon to access my GitHub Portfolio Archive
 
 [<img src="../images/GitHub.png" alt="R" width="250"/>](https://github.com/FerreiraEnzoA/Portfolio)
