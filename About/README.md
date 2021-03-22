@@ -21,7 +21,7 @@ BSc Candidate in Economics at University of Campinas (UNICAMP) <br />
 
 <h2> Certifications </h2>
 * Yale University <br />
-    2018 | Yale Young Global Scholars Program - Asia in the 21st Century <br />
+    * 2018 | Yale Young Global Scholars Program - Asia in the 21st Century <br />
 * University of São Paulo (USP) <br />
 ** 2019 | FFLCH Winter Online Courses - Liberal Thought Fundamentals <br />
 * S.O.S Educação Profissional <br />
