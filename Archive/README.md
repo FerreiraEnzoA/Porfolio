@@ -7,5 +7,5 @@
 <br /> <br /> <br />
 
 
-[<img src="../images/GitHub.png" alt="R" width="250"/>](https://github.com/FerreiraEnzoA/Portfolio)
+[<img src="../images/GitHub.png" alt="R" width="250"/>](https://github.com/FerreiraEnzoA/Portfolio) <br />
 Click on the icon above to access my GitHub Portfolio Archive
