@@ -11,6 +11,8 @@
 
 
 # Main Page
+:page_with_curl: This repository is licensed under the terms of the GPLv3 license.
+
 # <img src="images/Python.png" alt="R" width="50"/> [Project 3: Automation of Invoice](/Proj3/README.md) <br />
 Automation project (with pandas and openpyxl libraries) of invoice for Customer Service where `conf.xlsx`, `gen_ins.xlsx`, `inventory1.xlsx`, and `inventory2.xlsx` was compared, then `invoice.xlsx` was generated and some warnings was output.
 
