@@ -17,7 +17,7 @@ This project was inspired by difficulties in reconfirming a company's sales to a
 
 The Customer Service sends a confirmation `conf_cs.xlsx` to the customer, then the customer replies with his own confirmation `conf_customer.xlsx`, so an analysis of correspondence or non-correspondence between these documents is necessary. In this way, this automation project proposes to analyze both (partially, since the final sales decisions with the necessary corrections depend on the Customer Service), generate a file for a possible reconfirmation `reconfirmation.xlsx` and indicate the warnings (items/quantity/arrival date) as output. CPC stands for Customer Product Code.
 
-Primarily, I used the pandas library to manipulate structured data and, secondarily, openpyxl library to read/write Excel 2010 .xlsx files.
+Primarily, I used the pandas library to manipulate structured data and, secondarily, the openpyxl library to read/write Excel 2010 .xlsx files.
 
 You can get the [source code](https://github.com/FerreiraEnzoA/Portfolio/tree/main/Proj2).
 
