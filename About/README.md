@@ -22,7 +22,7 @@ Eager to bring value to companies and society through hard labor and commitment 
 <h2> Education </h2>
 BSc Candidate in Economics at University of Campinas (UNICAMP) <br /> <br /> <br />
 
-<h2> Education </h2>
+<h2> Experience </h2>
 **Ahlstrom-Munksjö** <br />
     -- 2021-04 - | Customer Service Intern <br /> <br /> <br />
 
