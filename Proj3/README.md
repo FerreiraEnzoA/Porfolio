@@ -10,7 +10,7 @@
 <br /> <br /> <br />
 
 
-# <img src="../images/Python.png" alt="R" width="50"/> Project 2: Automation of Reconfirmation <br />
+# <img src="../images/Python.png" alt="R" width="50"/> Project 3: Automation of Invoice <br />
 This project was inspired by the difficulties in categorizing which of the two warehouses of a company certain merchandise requested by the customer and to which of its three locations it should be invoiced. In this context, the aim is to reduce both the categorization time and the possible human errors in spreadsheets as much as possible.
 
 ![](../images/proj3.png)
