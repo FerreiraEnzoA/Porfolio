@@ -22,6 +22,10 @@ Eager to bring value to companies and society through hard labor and commitment 
 <h2> Education </h2>
 BSc Candidate in Economics at University of Campinas (UNICAMP) <br /> <br /> <br />
 
+<h2> Education </h2>
+**Ahlstrom-Munksjö** <br />
+    -- 2021-04 - | Customer Service Intern <br /> <br /> <br />
+
 <h2> Skills </h2>
 <h3> Soft Skills </h3>
 * Analytical Reasoning <br />
@@ -42,17 +46,17 @@ BSc Candidate in Economics at University of Campinas (UNICAMP) <br /> <br /> <br
 
 <h2> Certificates </h2>
 **Yale University** <br />
-    -- 2018 - Yale Young Global Scholars Program - Asia in the 21st Century <br /> <br />
+    -- 2018 | Yale Young Global Scholars Program - Asia in the 21st Century <br /> <br />
 **S.O.S Educação Profissional** <br />
-    -- 2013 - Web Design & Graphic Design <br /> <br /> <br />
+    -- 2013 | Web Design & Graphic Design <br /> <br /> <br />
 
 <h2> Accomplishments </h2>
 **Académie de Strasbourg** <br />
-    -- 2018 - Silver (São Paulo, state) and Bronze (Brazil, national) medals at the International Olympiad 'Mathématiques Sans Frontières' <br /> <br />
+    -- 2018 | Silver (São Paulo, state) and Bronze (Brazil, national) medals at the International Olympiad 'Mathématiques Sans Frontières' <br /> <br />
 **National Meetings of Political Economy (Brazil)** <br />
-    -- 2018 - First high school student to present a scientific poster <br /> <br />
+    -- 2018 | First high school student to present a scientific poster <br /> <br />
 **National Meetings of Geographers (Brazil)** <br />
-    -- 2018 - First high school student to present a scientific paper <br /> <br /> <br />
+    -- 2018 | First high school student to present a scientific paper <br /> <br /> <br />
 
 <h2> Volunteering & Scholarships </h2>
 **Yale University - Ambassador (2018 - 2019)** <br />
