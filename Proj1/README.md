@@ -11,7 +11,7 @@
 
 
 # <img src="../images/R.png" alt="R" width="50"/> Project 1: Piauí Economic Analysis <br />
-This project was inspired by an academic work required by Economic Analysis Methods discipline (CE242) of Economics major at University of Campinas (Brazil). Its purpose isn’t to analyze scientifically, but it goal is only to make this code open-source to further analysis.
+This project was inspired by an academic work required by Economic Analysis Methods discipline (CE242) of Economics major at University of Campinas (Brazil). Its purpose isn’t to analyze scientifically, but it aim is only to make this code open-source to further analysis.
 
 Special thanks to Bruno Negreiros for coding with me and Professor Ivette Luna for mentoring us in CE242.
 
