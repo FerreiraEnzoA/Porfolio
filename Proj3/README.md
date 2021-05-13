@@ -26,8 +26,6 @@ Finally, the software generates a new spreadsheet `invoice.xlsx`, containing as 
 
 Primarily, I used the pandas library to manipulate structured data and, secondarily, openpyxl library to read/write Excel 2010 .xlsx files.
 
-You can get the [source code](https://github.com/FerreiraEnzoA/Portfolio/tree/main/Proj3).
-
 ![](../images/proj3_diagram.png)
 
-An issue to be solved is when mismatch in `Qty` between the customer and inventory worksheets, since this software itself doesn’t output this error.
+You can get the [source code](https://github.com/FerreiraEnzoA/Portfolio/tree/main/Proj2) and solve any [issues](https://github.com/FerreiraEnzoA/Portfolio/issues).
