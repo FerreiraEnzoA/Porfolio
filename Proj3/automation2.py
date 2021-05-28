@@ -3,10 +3,10 @@
 import pandas as pd
 
 # Read .xlsx files
-tab1 = pd.read_excel('/home/user/Área de trabalho/GitHub/Proj3/gen_ins.xlsx')
-tab2 = pd.read_excel('/home/user/Área de trabalho/GitHub/Proj3/conf.xlsx')
-tab3 = pd.read_excel('/home/user/Área de trabalho/GitHub/Proj3/inventory1_.xlsx')
-tab4 = pd.read_excel('/home/user/Área de trabalho/GitHub/Proj3/inventory2_.xlsx')
+tab1 = pd.read_excel('/home/user/Documentos/GitHub/Proj3/gen_ins.xlsx')
+tab2 = pd.read_excel('/home/user/Documentos/GitHub/Proj3/conf.xlsx')
+tab3 = pd.read_excel('/home/user/Documentos/GitHub/Proj3/inventory1_.xlsx')
+tab4 = pd.read_excel('/home/user/Documentos/GitHub/Proj3/inventory2_.xlsx')
 
 # Print DataFrames
 print('\n============= DATAFRAMES =============')
@@ -34,8 +34,8 @@ shipto = []
 
 # CPCs lists
 print('\n\n\n============= CPCs LISTS =============')
-cpc_t = tab1['1'].tolist()
-cpc_m = tab1['2'].tolist()
+cpc_t = tab1['p1'].tolist()
+cpc_m = tab1['p2'].tolist()
 print('CPCs 1:', cpc_t)
 print('CPCs 2:', cpc_m)
 
@@ -65,7 +65,7 @@ for z in pallet:
         shipto.append('A')
     elif z in bc_cities:
         x = tab4.loc[tab4['Package id'] == z]
-        k = x['CustProdName'].item()
+        k = str(x['CustProdName'].item())
         if k == '22' or 'B' in k:
             print(z, 'B')
             shipto.append('B')
@@ -89,5 +89,5 @@ conf['PLANT'] = plants
 conf['SHIP TO'] = shipto
 
 print('\n\n\n', conf)
-conf.to_excel("/home/user/Área de trabalho/GitHub/Proj3/invoice.xlsx", index=False)
+conf.to_excel("/home/user/Documentos/GitHub/Proj3/invoice.xlsx", index=False)
 print('\nSpreadsheet "invoice.xlsx" successfully generated!')
