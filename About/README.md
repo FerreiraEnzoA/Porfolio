@@ -24,7 +24,7 @@ BSc Candidate in Economics at University of Campinas (UNICAMP) <br /> <br /> <br
 
 <h2> Experience </h2>
 **Ahlstrom-Munksjö** <br />
-    -- 2021-04 - | Customer Service Intern <br /> <br /> <br />
+    -- 2021-04 - 2021-07 | Customer Service Intern <br /> <br /> <br />
 
 <h2> Skills </h2>
 <h3> Soft Skills </h3>
