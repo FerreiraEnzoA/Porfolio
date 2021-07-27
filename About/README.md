@@ -24,9 +24,9 @@ BSc Candidate in Economics at University of Campinas (UNICAMP) <br /> <br /> <br
 
 <h2> Experience </h2>
 
-**Resource Management Intern | Red Hat** (2021-07) <br /> <br />
+**Resource Management Intern at Red Hat** (2021-07) <br /> <br />
 
-**Customer Service Intern | Ahlstrom-Munksjö** (2021-04 - 2021-07) <br />
+**Customer Service Intern at Ahlstrom-Munksjö** (2021-04 - 2021-07) <br />
     -- Assisted in customer service, monitored the sales flow, and wrote reports <br />
     -- Created Python automation projects (with pandas library) to Customer Service team <br /> <br /> <br />
 
