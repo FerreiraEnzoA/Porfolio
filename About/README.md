@@ -42,6 +42,7 @@
 <h4> Technology </h4>
 * Python <br />
 * Linux <br />
+* Git <br />
 * SQL <br />
 * Excel <br />
 * R <br /> <br /> <br />
