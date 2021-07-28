@@ -1,5 +1,5 @@
 # FerreiraEnzoA
-:computer: Problem solver and data-driven professional <br />
+:red_circle: Red Hatter! <br />
 :email: Email: <a href="mailto:FerreiraEnzoA@gmail.com">FerreiraEnzoA@gmail.com</a> <br />
 :briefcase: LinkedIn: [FerreiraEnzoA](https://www.linkedin.com/in/ferreiraenzoa/) <br /> <br /> <br />
 
